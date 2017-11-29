@@ -1,0 +1,60 @@
+E:\cs\projectbp\projectbp\bin\Debug\projectbp.exe.config
+E:\cs\projectbp\projectbp\bin\Debug\projectbp.exe
+E:\cs\projectbp\projectbp\bin\Debug\projectbp.pdb
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.csprojResolveAssemblyReference.cache
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.Form1.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.home.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.Properties.Resources.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.csproj.GenerateResource.Cache
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.exe
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.pdb
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.admin.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.useracco.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.employee.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.sales.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.stock.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.add_new_emp.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.emp_dalete.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.emp_view.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.new_user.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.cgange_pass.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.change_uname.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.delete_user.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.stock_in.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.item_delete.resources
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.stock_view.resources
+E:\cs\projectbp\projectbp\bin\Debug\projectbp.exe.manifest
+E:\cs\projectbp\projectbp\bin\Debug\projectbp.application
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.exe.manifest
+E:\cs\projectbp\projectbp\obj\Debug\projectbp.application
+E:\New folder (2)\cs\projectbp\projectbp\bin\Debug\projectbp.exe.config
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.exe
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.pdb
+E:\New folder (2)\cs\projectbp\projectbp\bin\Debug\projectbp.exe.manifest
+E:\New folder (2)\cs\projectbp\projectbp\bin\Debug\projectbp.application
+E:\New folder (2)\cs\projectbp\projectbp\bin\Debug\projectbp.exe
+E:\New folder (2)\cs\projectbp\projectbp\bin\Debug\projectbp.pdb
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.csprojResolveAssemblyReference.cache
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.add_new_emp.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.admin.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.cgange_pass.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.change_uname.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.delete_user.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.employee.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.emp_dalete.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.emp_view.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.Form1.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.home.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.item_delete.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.new_user.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.Properties.Resources.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.sales.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.stock.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.stock_in.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.stock_view.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.useracco.resources
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.csproj.GenerateResource.Cache
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.exe.manifest
+E:\New folder (2)\cs\projectbp\projectbp\obj\Debug\projectbp.application
+E:\cs\projectbp\projectbp\bin\Debug\Database1.mdf
+E:\cs\projectbp\projectbp\bin\Debug\Database1_log.ldf
